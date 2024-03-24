@@ -1,4 +1,6 @@
 # PowerBI_Call Center_Dashboard
 1 step at a time
 
-![Dashboard]
+![Home view](https://github.com/Phatolic/PowerBI_Dashboard/blob/main/dashboard.png)
+![Grid view](https://github.com/Phatolic/PowerBI_Dashboard/blob/main/grid.png)
+
